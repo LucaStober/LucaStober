@@ -6,4 +6,4 @@ Check out my [X](https://x.com/StoberLuca) or [LinkedIn](https://www.linkedin.co
 
 - [**Notchi**](https://github.com/LucaStober/notchbar) — A tiny pet that lives in your MacBook's notch and reacts to Claude Code
 - **Viryra** — Coming soon
-- **NotusOS** — A LinkedIn tool to help you write great posts
+- [**notusos**](https://www.notusos.com) — A LinkedIn tool to help you write great posts
