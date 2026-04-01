@@ -5,5 +5,5 @@ Check out my [X](https://x.com/StoberLuca) or [LinkedIn](https://www.linkedin.co
 ## Current Projects
 
 - [**Notchi**](https://github.com/LucaStober/notchbar) — A tiny pet that lives in your MacBook's notch and reacts to Claude Code
-- **Viryra** — Coming soon
+- [**Viryra**](https://github.com/LucaStober/Viryra) — Coming soon
 - [**notusos**](https://www.notusos.com) — A LinkedIn tool to help you write great posts
